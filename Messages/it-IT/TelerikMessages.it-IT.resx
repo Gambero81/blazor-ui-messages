@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -1084,7 +1084,7 @@
     <value>Chiudi</value>
   </data>
   <data name="FileManager_ConfirmDeleteCancel" xml:space="preserve">
-    <value>Annukka</value>
+    <value>Annulla</value>
   </data>
   <data name="FileManager_ConfirmDeleteOk" xml:space="preserve">
     <value>Ok</value>
@@ -1209,4 +1209,56 @@
   <data name="Grid_FilterMenuSettings" xml:space="preserve">
     <value>{0} impostazioni menu filtro colonne</value>
   </data>
+  
+  <data name="PdfViewer_Search_Close" xml:space="preserve">
+	  <value>Chiudi</value>
+	</data>
+	<data name="PdfViewer_Search_MatchCase" xml:space="preserve">
+	  <value>Tipo corrispondenza</value>
+	</data>
+	<data name="PdfViewer_Search_MatchesOf" xml:space="preserve">
+	  <value>di</value>
+	</data>
+	<data name="PdfViewer_Search_NextMatch" xml:space="preserve">
+	  <value>Prossima corrispondenza</value>
+	</data>
+	<data name="PdfViewer_Search_Placeholder" xml:space="preserve">
+	  <value>Cerca</value>
+	</data>
+	<data name="PdfViewer_Search_PreviousMatch" xml:space="preserve">
+	  <value>Corrispondenza precedente</value>
+	</data>
+	<data name="PdfViewer_ToolBar_Download" xml:space="preserve">
+	  <value>Scarica</value>
+	</data>
+	<data name="PdfViewer_ToolBar_Open" xml:space="preserve">
+	  <value>Apri</value>
+	</data>
+	<data name="PdfViewer_ToolBar_Panning" xml:space="preserve">
+	  <value>Abilita panoramica</value>
+	</data>
+	<data name="PdfViewer_ToolBar_Print" xml:space="preserve">
+	  <value>Stampa</value>
+	</data>
+	<data name="PdfViewer_ToolBar_Search" xml:space="preserve">
+	  <value>Cerca</value>
+	</data>
+	<data name="PdfViewer_ToolBar_TextSelection" xml:space="preserve">
+	  <value>Abilita selezione</value>
+	</data>
+	<data name="PdfViewer_ToolBar_ZoomActualWidth" xml:space="preserve">
+	  <value>Larghezza attuale</value>
+	</data>
+	<data name="PdfViewer_ToolBar_ZoomFitToPage" xml:space="preserve">
+	  <value>Adatta alla pagina</value>
+	</data>
+	<data name="PdfViewer_ToolBar_ZoomFitToWidth" xml:space="preserve">
+	  <value>Adatta alla larghezza</value>
+	</data>
+	<data name="PdfViewer_ToolBar_ZoomIn" xml:space="preserve">
+	  <value>Ingrandisci</value>
+	</data>
+	<data name="PdfViewer_ToolBar_ZoomOut" xml:space="preserve">
+	  <value>Diminuisci</value>
+	</data>
 </root>
