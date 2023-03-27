@@ -225,15 +225,6 @@
   <data name="Editor_AddColumnBefore" xml:space="preserve">
     <value>Aggiunge colonna a sinistra</value>
   </data>
-  <data name="Editor_AddColumnLeft" xml:space="preserve">
-    <value>Aggiunge colonna a sinistra</value>
-  </data>
-  <data name="Editor_AddColumnRight" xml:space="preserve">
-    <value>Aggiunge colonna a destra</value>
-  </data>
-  <data name="Editor_AddRowAbove" xml:space="preserve">
-    <value>Aggiunge riga sopra</value>
-  </data>
   <data name="Editor_AddRowAfter" xml:space="preserve">
     <value>Aggiunge riga sotto</value>
   </data>
@@ -374,9 +365,6 @@
   </data>
   <data name="Editor_Unlink" xml:space="preserve">
     <value>Rimuovi link</value>
-  </data>
-  <data name="Editor_ViewHtml" xml:space="preserve">
-    <value>Visualizza HTML</value>
   </data>
   <data name="Filter_All" xml:space="preserve">
     <value>(Tutti)</value>
@@ -536,6 +524,9 @@
   </data>
   <data name="Grid_Create" xml:space="preserve">
     <value>Aggiungi riga</value>
+  </data>
+  <data name="Grid_Csv" xml:space="preserve">
+    <value>Esporta in CSV</value>
   </data>
   <data name="Grid_Delete" xml:space="preserve">
     <value>Elimina</value>
@@ -927,6 +918,9 @@
   <data name="Upload_Clear" xml:space="preserve">
     <value>Pulisci</value>
   </data>
+  <data name="Upload_DropZoneHint" xml:space="preserve">
+    <value>Trascina i files qui per caricare</value>
+  </data>
   <data name="Upload_FileStatusFailed" xml:space="preserve">
     <value>Invio del file non riuscito.</value>
   </data>
@@ -953,6 +947,12 @@
   </data>
   <data name="Upload_Retry" xml:space="preserve">
     <value>Riprova</value>
+  </data>
+  <data name="Upload_SelectedFilesAriaLabel" xml:space="preserve">
+    <value>{0} file(s) {1}. Premere freccia giu per navigare.</value>
+  </data>
+  <data name="Upload_SelectedState" xml:space="preserve">
+    <value>Selezionati</value>
   </data>
   <data name="Upload_SelectFiles" xml:space="preserve">
     <value>Selezona files...</value>
@@ -1031,6 +1031,9 @@
   </data>
   <data name="Scheduler_AllEvents" xml:space="preserve">
     <value>Tutti gli eventi</value>
+  </data>
+  <data name="FileSelect_DropZoneHint" xml:space="preserve">
+    <value>Trascina qui i files</value>
   </data>
   <data name="FileSelect_InvalidFileExtension" xml:space="preserve">
     <value>Tipo File non permesso.</value>
@@ -1295,6 +1298,12 @@
   </data>
   <data name="DropDownList_Open" xml:space="preserve">
     <value>Apri</value>
+  </data>
+  <data name="DropZone_Hint" xml:space="preserve">
+    <value>Tascina i files qui per caricarli</value>
+  </data>
+  <data name="DropZone_Note" xml:space="preserve">
+    <value></value>
   </data>
   <data name="Filter_AdditionalOperator" xml:space="preserve">
     <value>Operatore Aggiuntivo</value>
